@@ -180,4 +180,4 @@
             
             print("hi")
             
-            wait(0.1)
+            wait()
