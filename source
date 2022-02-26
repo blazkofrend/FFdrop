@@ -179,3 +179,5 @@
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
             
             print("hi")
+            
+            wait()
