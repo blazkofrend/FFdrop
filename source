@@ -7,87 +7,65 @@ getgenv().AutoDrop = true
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
             
-            wait(0.2)
-            
             local args = {
                 [1] = 1208,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
-                        
-            wait(0.2)
             
             local args = {
                 [1] = 1233,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
-                        
-            wait(0.2)
             
             local args = {
                 [1] = 1252,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
-                        
-            wait(0.2)
             
             local args = {
                 [1] = 1225,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
-                        
-            wait(0.2)
             
             local args = {
                 [1] = 1231,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
-                        
-            wait(0.2)
             
             local args = {
                 [1] = 1220,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
-                        
-            wait(0.2)
             
             local args = {
                 [1] = 1209,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
-                        
-            wait(0.2)
             
             local args = {
                 [1] = 1207,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
-                                     
-            wait(0.2)
             
             local args = {
                 [1] = 1241,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
-                                    
-            wait(0.2)
             
             local args = {
                 [1] = 1241,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
-                                    
-            wait(0.2)
             
             local args = {
                 [1] = 1240,
@@ -95,15 +73,11 @@ getgenv().AutoDrop = true
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
             
-            wait(0.2)
-            
-                        local args = {
+            local args = {
                 [1] = 1226,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
-            
-            wait(0.2)
             
             local args = {
                 [1] = 1253,
@@ -111,15 +85,11 @@ getgenv().AutoDrop = true
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
             
-            wait(0.2)
-            
             local args = {
                 [1] = 1224,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
-
-            wait(0.2)
             
             local args = {
                 [1] = 1223,
@@ -127,31 +97,23 @@ getgenv().AutoDrop = true
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
             
-            wait(0.2)
-            
             local args = {
                 [1] = 1221,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
             
-            wait(0.2)
-            
             local args = {
                 [1] = 1222,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
-                        
-            wait(0.2)
             
             local args = {
                 [1] = 1216,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
-                        
-            wait(0.2)
             
             local args = {
                 [1] = 1213,
@@ -159,79 +121,59 @@ getgenv().AutoDrop = true
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
             
-            wait(0.2)
-            
             local args = {
                 [1] = 1211,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
             
-            wait(0.2)
-            
             local args = {
                 [1] = 1217,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
-                        
-            wait(0.2)
             
             local args = {
                 [1] = 1234,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
-                                    
-            wait(0.2)
             
             local args = {
                 [1] = 1251,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
-                                                
-            wait(0.2)
             
             local args = {
                 [1] = 1227,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
-                                                
-            wait(0.2)
             
             local args = {
                 [1] = 1228,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
-                                                
-            wait(0.2)
             
             local args = {
                 [1] = 1229,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
-                                                
-            wait(0.2)
             
             local args = {
                 [1] = 13,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
-                                                
-            wait(0.2)
             
             local args = {
                 [1] = 1260,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
-                                                
-            wait(0.2)
             
             local args = {
                 [1] = 1246,
@@ -239,5 +181,6 @@ getgenv().AutoDrop = true
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
                  
+            wait()
         end
 
