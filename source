@@ -83,6 +83,12 @@
             game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
             
             local args = {
+                [1] = 1209,
+                [2] = 1,
+                [3] = Vector3.new(-44.05765151977539, 0.29420900344848633, 746.1090698242188)}
+            game:GetService("ReplicatedStorage").Events.DropItem:FireServer(unpack(args))
+            
+            local args = {
                 [1] = 1224,
                 [2] = 1,
                 [3] = Vector3.new(632.2880859375, 179.78558349609, -246.68743896484)}
